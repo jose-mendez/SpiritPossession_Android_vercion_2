@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spirit possession</string>
+    <string name="action_settings">Settings</string>
+    <string name="Continue">Continue</string>
+    <string name="About">About Us</string>
+    <string name="Text1">This cell is possessed...</string>
+    <string name="btnAnswer">Spiritu Answer!!!</string>
+    <string name="btnReset">Reset Question</string>
+    <string name="petition">Petition</string> 
+    <string name="question">Question</string>
+     <string name="Author">Author:</string>
+     <string name="Jose">Jose Mendez</string>
+     <string name="Email">jmendez.blogspot@gmail.com</string>
+     <string name="RateLarge">Rate and Review</string>
+     <string name="RateMedium">Review the app in Google Play</string>
+     <string name="Description">This is an App for entertainment, the author is not responsible for the bad use of it</string>
+     <string name="SpiritStr">spirit please answer the question</string>
+     <string name="Back">Back</string>
+     <string name="arr0">I answer only to the owner of this phone!!!</string>
+     <string name="arr1">Show respect!!!</string>
+     <string name="arr2">Return the phone to its owner, or curse you!</string>
+     
+     
+</resources>
